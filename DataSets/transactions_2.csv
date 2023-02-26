@@ -1,0 +1,6 @@
+cid,cname,dateTime,amount,discount,member
+106,ANiki,2021-07-22 01:01:53,2415.12,8 %,True
+107,BRaaki,2021-08-13 12:15:33,9399.22,10 %,True
+108,CMaaki,2022-08-18 22:12:45,1384.16,,False
+109,DNibba,2022-07-08 14:18:37,2246.00,9 %,True
+110,ENibbi,,3145.13,12 %,False
