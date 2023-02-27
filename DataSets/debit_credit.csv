@@ -1,0 +1,12 @@
+Cid,CName,TransactionType,Amount
+101,Nik,debit,10
+101,Nik,credit,100
+101,Nik,debit,50
+102,Raki,credit,1000
+102,Raki,credit,100
+102,Raki,debit,50
+103,Nibbi,credit,1000
+104,Nibba,debit,1000
+104,Nibba,credit,400
+104,Nibba,debit,400
+103,Nibbi,credit,400
