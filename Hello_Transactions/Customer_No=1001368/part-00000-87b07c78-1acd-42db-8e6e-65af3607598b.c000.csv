@@ -1,0 +1,15 @@
+Card_type,Date,Category,Transaction Type,Amount
+Silver Card,2/26/2018,Credit Card Payment,credit,156.11
+Checking,2/26/2018,Credit Card Payment,debit,765.37
+Checking,2/26/2018,Internet,debit,74.99
+Silver Card,2/26/2018,Restaurants,debit,85.52
+Silver Card,2/26/2018,Gas & Fuel,debit,32.21
+Checking,2/27/2018,Credit Card Payment,debit,156.11
+Silver Card,3/1/2018,Groceries,debit,32.07
+Platinum Card,3/1/2018,Shopping,debit,13.13
+Checking,3/2/2018,Paycheck,credit,1247.44
+Checking,3/2/2018,Paycheck,credit,2000
+Silver Card,3/3/2018,Groceries,debit,23.74
+Platinum Card,3/4/2018,Groceries,debit,10.69
+Platinum Card,3/4/2018,Movies & DVDs,debit,11.76
+Platinum Card,3/4/2018,Restaurants,debit,42.24

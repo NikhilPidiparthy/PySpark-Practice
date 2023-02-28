@@ -1,0 +1,14 @@
+Card_type,Date,Category,Transaction Type,Amount
+Platinum Card,1/13/2018,Fast Food,debit,32.91
+Platinum Card,1/13/2018,Shopping,debit,39.05
+Silver Card,1/15/2018,Groceries,debit,44.19
+Silver Card,1/15/2018,Restaurants,debit,64.11
+Checking,1/16/2018,Utilities,debit,35
+Checking,1/16/2018,Utilities,debit,60
+Checking,1/19/2018,Paycheck,credit,2000
+Platinum Card,1/20/2018,Shopping,debit,50.21
+Platinum Card,1/22/2018,Credit Card Payment,credit,554.99
+Silver Card,1/22/2018,Credit Card Payment,credit,309.81
+Checking,1/22/2018,Credit Card Payment,debit,554.99
+Silver Card,1/22/2018,Home Improvement,debit,17.38
+Checking,1/23/2018,Credit Card Payment,debit,309.81

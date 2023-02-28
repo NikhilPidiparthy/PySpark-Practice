@@ -1,0 +1,19 @@
+Card_type,Date,Category,Transaction Type,Amount
+Platinum Card,3/5/2018,Coffee Shops,debit,3
+Silver Card,3/5/2018,Credit Card Payment,credit,761.59
+Checking,3/5/2018,Credit Card Payment,debit,761.59
+Platinum Card,3/7/2018,Coffee Shops,debit,3.5
+Platinum Card,3/8/2018,Gas & Fuel,debit,34.9
+Checking,3/8/2018,Utilities,debit,52
+Platinum Card,3/9/2018,Groceries,debit,20.72
+Platinum Card,3/9/2018,Groceries,debit,5.09
+Platinum Card,3/9/2018,Music,debit,10.69
+Platinum Card,3/12/2018,Groceries,debit,19.35
+Checking,3/12/2018,Mobile Phone,debit,89.52
+Platinum Card,3/13/2018,Shopping,debit,45.75
+Platinum Card,3/14/2018,Groceries,debit,22.5
+Platinum Card,3/14/2018,Restaurants,debit,8.49
+Platinum Card,3/15/2018,Coffee Shops,debit,3.5
+Checking,3/15/2018,Utilities,debit,60
+Checking,3/16/2018,Paycheck,credit,2000
+Silver Card,3/17/2018,Alcohol & Bars,debit,19.5
